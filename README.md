@@ -3,4 +3,5 @@
 
 Kodları direk kopyala yapıştır yapmayın dostlarım. Onun yerine, kendiniz yazarak ilerleyin.
 Bu sayede el pratiğiniz de gelişmiş olur ve ezbere iş yapmamış olursunuz.
-İçeriklerin bulunduğu hesap: https://www.instagram.com/kodvedevre1
+
+İçeriklerin bulunduğu hesap: instagram.com/kodvedevre1
