@@ -1,2 +1,2 @@
 # Kod-ve-Devre-Uygulamalari
-kodvedevre1 instagram hesabında yaptığımız uygulamaların kodlarıdır.
+@kodvedevre1 instagram hesabında yaptığımız uygulamaların kodlarıdır.
